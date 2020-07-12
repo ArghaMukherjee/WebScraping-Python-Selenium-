@@ -14,4 +14,4 @@ Solutions : Version with the browser, or the browser is not installed
 2)Issue with PATH:
 Solution : Download the geckodriver from the above mentioned link and then copy it to the location mentioned above
 
-requirements.txt has all the set of installed libraries
+The "requirements.txt" file  has all the set of installed libraries
